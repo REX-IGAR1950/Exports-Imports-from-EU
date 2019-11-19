@@ -6,10 +6,10 @@ In this exercise I am going to use diverse methods in order to understand the tr
 
 Practical objective of the exercise:
 
-    - Better comprehension of forloops and if clauses
-    - Easy aplication of machine learning (clustering Kmeans)
-    - Matplot views
-    - Reporting: Tableau
+- Better comprehension of forloops and if clauses
+- Easy aplication of machine learning (clustering Kmeans)
+- Matplot views
+- Reporting: Tableau
 
 # Requirements
 
